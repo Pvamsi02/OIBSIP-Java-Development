@@ -34,3 +34,12 @@ Atm Interface
 <hr/>
 
 - Quit
+
+ <hr/>
+
+ - Login DataBase <br/>
+![image](https://github.com/Pvamsi02/OIBSIP-JavaDevelopment/assets/112920388/4364fdf1-17b3-41c1-862a-bf550171a320)
+
+- Details DataBase<br/>
+  ![image](https://github.com/Pvamsi02/OIBSIP-JavaDevelopment/assets/112920388/d46b2394-0e15-4702-bd97-4badf42a1907)
+
